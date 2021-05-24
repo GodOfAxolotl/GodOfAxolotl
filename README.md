@@ -1,9 +1,8 @@
 
 - Hi, I am TheGodOfAxolotl or just Luca.
-  Here I back-up and share some of my codes and algorithms I am made.
+  Here I back-up and share some of my codes and algorithms I made.
   I have no real focus on what I am doing. I am still learning so I 
   am doing a little bit of everything .
-  Planning on becomming a software engineer in the future. 
 
 
 <!---
